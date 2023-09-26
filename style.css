@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Pridi:wght@400;600&display=swap');
+body{background-image: linear-gradient(to bottom right, #E1E1D5, #E2DFFD);
+    text-align:left;
+    margin: 88px;
+    padding: 40px;}
+    
+h1 { color: #101010; 
+    max-width: 840px;
+    font-size: 80px;
+    line-height: 90px;
+    font-family: 'Playfair Display', serif;}
+
+h2 { color: #383838; 
+    max-width: 450px;
+    font-size: 24px 
+    line-height: 26px;
+    font-family: 'Pridi', serif;
+    padding-bottom: 80px}
+
+hr {color: #101010;
+        size: 1px;
+        width: 100%;}
+
+p  { color: #383838;
+    max-width: 450px; 
+    font: size 20px;
+    line-height: 30px; 
+    font-family: 'Pridi', serif;
+    padding-top: 80px;
+    padding-bottom: 200px}
